@@ -1,0 +1,31 @@
+Pit Bull Terrier                        7890
+Terrier                                 2641
+American Staffordshire Terrier          1862
+Jack Russell Terrier                     637
+Staffordshire Bull Terrier               390
+Yorkshire Terrier                        360
+Rat Terrier                              338
+Bull Terrier                             176
+Boston Terrier                           149
+Cairn Terrier                             91
+Parson Russell Terrier                    70
+Wirehaired Terrier                        60
+Fox Terrier                               40
+Manchester Terrier                        39
+Border Terrier                            27
+Toy Fox Terrier                           26
+Wheaten Terrier                           19
+Airedale Terrier                          19
+West Highland White Terrier / Westie      19
+Irish Terrier                             17
+Patterdale Terrier / Fell Terrier         16
+Wire Fox Terrier                          15
+Silky Terrier                             15
+Australian Terrier                        15
+Scottish Terrier                          13
+Lakeland Terrier                           5
+Norfolk Terrier                            5
+Smooth Fox Terrier                         4
+American Hairless Terrier                  4
+Tibetan Terrier                            3
+Skye Terrier                               1
