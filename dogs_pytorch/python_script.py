@@ -30,8 +30,8 @@ scaler = StandardScaler()
 X_train = scaler.fit_transform(X_train)
 X_test = scaler.transform(X_test)
 scaler = MinMaxScaler()
-regressor = RandomForestRegressor(n_estimators=100,
-    criterion='poisson', max_depth=14, max_features=9, random_state=40)
+regressor = RandomForestRegressor(n_estimators = 100, max_features = 'log2',
+    max_depth = 1, min_samples_split = 61, min_samples_leaf = 122, n_jobs = 2, random_state = 8001)
 regressor.fit(X_train, y_train)
 y_pred = regressor.predict(X_test)
 r2(y_test, y_pred)
