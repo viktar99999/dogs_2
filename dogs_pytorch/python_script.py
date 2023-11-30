@@ -50,7 +50,7 @@ def loss(mean, target):
     return mean(F.l1_loss(input, target, reduction="none") / target) * 100
 loss_func = F.mse_loss
 metrics_func_1 = [loss_func, loss]
-metrics_name = ["MSE", "LOSS"}
+metrics_name = ["MSE", "LOSS"]
 def print_metrics(models, train_data, test_data, models_name):
     """function print_metrics"""
     results = np.ones(2 * len(models), len(metrics_func_1))
