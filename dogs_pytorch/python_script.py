@@ -18,6 +18,7 @@ np.random.seed(42)
 torch.manual_seed(42)
 df = pd.read_csv('dogs.csv')
 df.head()
+df.isna().sum()
 print(df.shape)
 Y = df['dogs']
 X = df.iloc[:, 0:16]
