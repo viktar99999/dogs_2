@@ -2,7 +2,7 @@
 In the repository will be different dog breeds Terrier.
 Base:
 System - Ubuntu20.04.05lts
-System - Ubuntu22.04.03lts
+System - Ubuntu22.04.04lts
 Programming environment - Python3.8.10.2.9
 Programming environment - Python3.9.5.2
 Programming environment - Python3.10.12
