@@ -20,6 +20,7 @@ df = pd.read_csv('dogs.csv')
 df.head()
 df.isna().sum()
 print(df.dtypes)
+print(df.info())
 print(df.shape)
 Y = df['dogs']
 X = df.iloc[:, 0:16]
