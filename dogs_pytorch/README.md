@@ -65,3 +65,4 @@ lr1_1.pth
 Files:
 dataset_dog_breeds_Terrier.txt
 dog_breeds_Terrier.txt
+dogfood.txt
